@@ -1,4 +1,0 @@
-Đặt dữ liệu gốc vào thư mục này, giữ nguyên cấu trúc:
-  keyword/  law/  company/  (các file *_classified.csv đã gán nhãn)
-  Stock/Company_Profile_BDS_REAL_DATA__1_.xlsx  và  Stock/Bang_Trust_Score_CafeF_Kenh14.xlsx
-Danh sách file chính xác: NEWS_FILES trong src/config.py. Sau đó chạy:  py -3.12 -m src.run_all
