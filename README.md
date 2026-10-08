@@ -122,6 +122,26 @@ Chúng được tạo tự động khi chạy pipeline.
 
 ## 4. Dữ liệu
 
+### 4.0. Tin tức gốc 
+
+```text
+data/crawl/
+```
+gồm:
+
+```text
+cafef_company_raw.csv
+cafef_keyword_raw.csv
+cafef_law_raw.csv
+
+kenh14_company_raw.csv
+kenh14_keywords_raw.csv
+kenh14_law_raw.csv
+
+vietstock_company_raw.csv
+vietstock_keyword_raw.csv
+vietstock_law_raw.csv
+```
 ### 4.1. Tin tức đã gán nhãn
 
 Các file đầu vào chính nằm trong:
