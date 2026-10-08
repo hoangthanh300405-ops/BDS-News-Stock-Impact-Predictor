@@ -1,0 +1,6 @@
+data/crawl/vietstock_company_raw.csv filter=lfs diff=lfs merge=lfs -text
+data/crawl/cafef_law_raw.csv filter=lfs diff=lfs merge=lfs -text
+data/crawl/cafef_company_raw.csv filter=lfs diff=lfs merge=lfs -text
+data/classified/vietstock_company_classified.csv filter=lfs diff=lfs merge=lfs -text
+data/classified/cafef_law_classified.csv filter=lfs diff=lfs merge=lfs -text
+data/classified/cafef_company_classified.csv filter=lfs diff=lfs merge=lfs -text
